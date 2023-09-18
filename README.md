@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @nadgold and I'm a Fullstack developer
+- 👀 I’m interested in app development in React, Node.JS, Python and NoSQL DBs
+- 💞️ I’m looking to collaborate projects involving said languages in the fields of AI, Syber or Education
+- 📫 You can contact me at nadgold@gmail.com
